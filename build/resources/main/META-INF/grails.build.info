@@ -1,0 +1,6 @@
+#Tue, 16 Jul 2019 00:44:58 +0530
+
+info.app.version=0.1
+info.app.name=grailsDateCreatedIssue
+grails.env=development
+info.app.grailsVersion=3.3.9
